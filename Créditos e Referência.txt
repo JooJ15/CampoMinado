@@ -1,0 +1,6 @@
+codigo onde foi pego uma Referência para o jogar.Svelte ele fui util principalmente na base do codigo:https://codepen.io/larii_d/pen/eEbJyZ
+
+Crédito a ChatGPT para ajuda em identificar possiveis Puro JavaScript no codigo, uma ajuda no entendimento do Svelte e CSS.
+
+Crédito a o codigo do professor Allan os 10Verdadeiros.
+
